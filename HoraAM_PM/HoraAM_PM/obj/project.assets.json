@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/Elements/repos/HoraAM_PM/HoraAM_PM/HoraAM_PM.csproj",
+      "projectUniqueName": "/Users/octodude/Documents/GitHub/PROGRAMACION/HoraAM_PM/HoraAM_PM/HoraAM_PM.csproj",
       "projectName": "HoraAM_PM",
-      "projectPath": "/Volumes/Elements/repos/HoraAM_PM/HoraAM_PM/HoraAM_PM.csproj",
+      "projectPath": "/Users/octodude/Documents/GitHub/PROGRAMACION/HoraAM_PM/HoraAM_PM/HoraAM_PM.csproj",
       "packagesPath": "/Users/octodude/.nuget/packages/",
-      "outputPath": "/Volumes/Elements/repos/HoraAM_PM/HoraAM_PM/obj/",
+      "outputPath": "/Users/octodude/Documents/GitHub/PROGRAMACION/HoraAM_PM/HoraAM_PM/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/octodude/.nuget/NuGet/NuGet.Config"
