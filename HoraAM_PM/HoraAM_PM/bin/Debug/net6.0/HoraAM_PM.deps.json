@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HoraAM_PM/1.0.0": {
+        "runtime": {
+          "HoraAM_PM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HoraAM_PM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

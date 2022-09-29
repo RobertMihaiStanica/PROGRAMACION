@@ -1,0 +1,15 @@
+C:\Users\OctoDude\source\repos\ConversorSeg\ConversorSeg\bin\Debug\net6.0\ConversorSeg.exe
+C:\Users\OctoDude\source\repos\ConversorSeg\ConversorSeg\bin\Debug\net6.0\ConversorSeg.deps.json
+C:\Users\OctoDude\source\repos\ConversorSeg\ConversorSeg\bin\Debug\net6.0\ConversorSeg.runtimeconfig.json
+C:\Users\OctoDude\source\repos\ConversorSeg\ConversorSeg\bin\Debug\net6.0\ConversorSeg.dll
+C:\Users\OctoDude\source\repos\ConversorSeg\ConversorSeg\bin\Debug\net6.0\ConversorSeg.pdb
+C:\Users\OctoDude\source\repos\ConversorSeg\ConversorSeg\obj\Debug\net6.0\ConversorSeg.csproj.AssemblyReference.cache
+C:\Users\OctoDude\source\repos\ConversorSeg\ConversorSeg\obj\Debug\net6.0\ConversorSeg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OctoDude\source\repos\ConversorSeg\ConversorSeg\obj\Debug\net6.0\ConversorSeg.AssemblyInfoInputs.cache
+C:\Users\OctoDude\source\repos\ConversorSeg\ConversorSeg\obj\Debug\net6.0\ConversorSeg.AssemblyInfo.cs
+C:\Users\OctoDude\source\repos\ConversorSeg\ConversorSeg\obj\Debug\net6.0\ConversorSeg.csproj.CoreCompileInputs.cache
+C:\Users\OctoDude\source\repos\ConversorSeg\ConversorSeg\obj\Debug\net6.0\ConversorSeg.dll
+C:\Users\OctoDude\source\repos\ConversorSeg\ConversorSeg\obj\Debug\net6.0\refint\ConversorSeg.dll
+C:\Users\OctoDude\source\repos\ConversorSeg\ConversorSeg\obj\Debug\net6.0\ConversorSeg.pdb
+C:\Users\OctoDude\source\repos\ConversorSeg\ConversorSeg\obj\Debug\net6.0\ConversorSeg.genruntimeconfig.cache
+C:\Users\OctoDude\source\repos\ConversorSeg\ConversorSeg\obj\Debug\net6.0\ref\ConversorSeg.dll

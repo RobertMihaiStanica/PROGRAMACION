@@ -1,0 +1,15 @@
+C:\Users\OctoDude\source\repos\CalculoDiametro\CalculoDiametro\bin\Debug\net6.0\CalculoDiametro.exe
+C:\Users\OctoDude\source\repos\CalculoDiametro\CalculoDiametro\bin\Debug\net6.0\CalculoDiametro.deps.json
+C:\Users\OctoDude\source\repos\CalculoDiametro\CalculoDiametro\bin\Debug\net6.0\CalculoDiametro.runtimeconfig.json
+C:\Users\OctoDude\source\repos\CalculoDiametro\CalculoDiametro\bin\Debug\net6.0\CalculoDiametro.dll
+C:\Users\OctoDude\source\repos\CalculoDiametro\CalculoDiametro\bin\Debug\net6.0\CalculoDiametro.pdb
+C:\Users\OctoDude\source\repos\CalculoDiametro\CalculoDiametro\obj\Debug\net6.0\CalculoDiametro.csproj.AssemblyReference.cache
+C:\Users\OctoDude\source\repos\CalculoDiametro\CalculoDiametro\obj\Debug\net6.0\CalculoDiametro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OctoDude\source\repos\CalculoDiametro\CalculoDiametro\obj\Debug\net6.0\CalculoDiametro.AssemblyInfoInputs.cache
+C:\Users\OctoDude\source\repos\CalculoDiametro\CalculoDiametro\obj\Debug\net6.0\CalculoDiametro.AssemblyInfo.cs
+C:\Users\OctoDude\source\repos\CalculoDiametro\CalculoDiametro\obj\Debug\net6.0\CalculoDiametro.csproj.CoreCompileInputs.cache
+C:\Users\OctoDude\source\repos\CalculoDiametro\CalculoDiametro\obj\Debug\net6.0\CalculoDiametro.dll
+C:\Users\OctoDude\source\repos\CalculoDiametro\CalculoDiametro\obj\Debug\net6.0\refint\CalculoDiametro.dll
+C:\Users\OctoDude\source\repos\CalculoDiametro\CalculoDiametro\obj\Debug\net6.0\CalculoDiametro.pdb
+C:\Users\OctoDude\source\repos\CalculoDiametro\CalculoDiametro\obj\Debug\net6.0\CalculoDiametro.genruntimeconfig.cache
+C:\Users\OctoDude\source\repos\CalculoDiametro\CalculoDiametro\obj\Debug\net6.0\ref\CalculoDiametro.dll

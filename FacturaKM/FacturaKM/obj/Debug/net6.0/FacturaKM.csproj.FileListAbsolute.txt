@@ -1,0 +1,15 @@
+/Volumes/Elements/repos/FacturaKM/FacturaKM/obj/Debug/net6.0/FacturaKM.csproj.AssemblyReference.cache
+/Volumes/Elements/repos/FacturaKM/FacturaKM/obj/Debug/net6.0/FacturaKM.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Elements/repos/FacturaKM/FacturaKM/obj/Debug/net6.0/FacturaKM.AssemblyInfoInputs.cache
+/Volumes/Elements/repos/FacturaKM/FacturaKM/obj/Debug/net6.0/FacturaKM.AssemblyInfo.cs
+/Volumes/Elements/repos/FacturaKM/FacturaKM/obj/Debug/net6.0/FacturaKM.csproj.CoreCompileInputs.cache
+/Volumes/Elements/repos/FacturaKM/FacturaKM/bin/Debug/net6.0/FacturaKM
+/Volumes/Elements/repos/FacturaKM/FacturaKM/bin/Debug/net6.0/FacturaKM.deps.json
+/Volumes/Elements/repos/FacturaKM/FacturaKM/bin/Debug/net6.0/FacturaKM.runtimeconfig.json
+/Volumes/Elements/repos/FacturaKM/FacturaKM/bin/Debug/net6.0/FacturaKM.dll
+/Volumes/Elements/repos/FacturaKM/FacturaKM/bin/Debug/net6.0/FacturaKM.pdb
+/Volumes/Elements/repos/FacturaKM/FacturaKM/obj/Debug/net6.0/FacturaKM.dll
+/Volumes/Elements/repos/FacturaKM/FacturaKM/obj/Debug/net6.0/refint/FacturaKM.dll
+/Volumes/Elements/repos/FacturaKM/FacturaKM/obj/Debug/net6.0/FacturaKM.pdb
+/Volumes/Elements/repos/FacturaKM/FacturaKM/obj/Debug/net6.0/FacturaKM.genruntimeconfig.cache
+/Volumes/Elements/repos/FacturaKM/FacturaKM/obj/Debug/net6.0/ref/FacturaKM.dll

@@ -1,0 +1,15 @@
+C:\Users\OctoDude\source\repos\PesetasEuros\PesetasEuros\bin\Debug\net6.0\PesetasEuros.exe
+C:\Users\OctoDude\source\repos\PesetasEuros\PesetasEuros\bin\Debug\net6.0\PesetasEuros.deps.json
+C:\Users\OctoDude\source\repos\PesetasEuros\PesetasEuros\bin\Debug\net6.0\PesetasEuros.runtimeconfig.json
+C:\Users\OctoDude\source\repos\PesetasEuros\PesetasEuros\bin\Debug\net6.0\PesetasEuros.dll
+C:\Users\OctoDude\source\repos\PesetasEuros\PesetasEuros\bin\Debug\net6.0\PesetasEuros.pdb
+C:\Users\OctoDude\source\repos\PesetasEuros\PesetasEuros\obj\Debug\net6.0\PesetasEuros.csproj.AssemblyReference.cache
+C:\Users\OctoDude\source\repos\PesetasEuros\PesetasEuros\obj\Debug\net6.0\PesetasEuros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OctoDude\source\repos\PesetasEuros\PesetasEuros\obj\Debug\net6.0\PesetasEuros.AssemblyInfoInputs.cache
+C:\Users\OctoDude\source\repos\PesetasEuros\PesetasEuros\obj\Debug\net6.0\PesetasEuros.AssemblyInfo.cs
+C:\Users\OctoDude\source\repos\PesetasEuros\PesetasEuros\obj\Debug\net6.0\PesetasEuros.csproj.CoreCompileInputs.cache
+C:\Users\OctoDude\source\repos\PesetasEuros\PesetasEuros\obj\Debug\net6.0\PesetasEuros.dll
+C:\Users\OctoDude\source\repos\PesetasEuros\PesetasEuros\obj\Debug\net6.0\refint\PesetasEuros.dll
+C:\Users\OctoDude\source\repos\PesetasEuros\PesetasEuros\obj\Debug\net6.0\PesetasEuros.pdb
+C:\Users\OctoDude\source\repos\PesetasEuros\PesetasEuros\obj\Debug\net6.0\PesetasEuros.genruntimeconfig.cache
+C:\Users\OctoDude\source\repos\PesetasEuros\PesetasEuros\obj\Debug\net6.0\ref\PesetasEuros.dll

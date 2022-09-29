@@ -1,0 +1,15 @@
+C:\Users\OctoDude\source\repos\pracioIVA\pracioIVA\bin\Debug\net6.0\pracioIVA.exe
+C:\Users\OctoDude\source\repos\pracioIVA\pracioIVA\bin\Debug\net6.0\pracioIVA.deps.json
+C:\Users\OctoDude\source\repos\pracioIVA\pracioIVA\bin\Debug\net6.0\pracioIVA.runtimeconfig.json
+C:\Users\OctoDude\source\repos\pracioIVA\pracioIVA\bin\Debug\net6.0\pracioIVA.dll
+C:\Users\OctoDude\source\repos\pracioIVA\pracioIVA\bin\Debug\net6.0\pracioIVA.pdb
+C:\Users\OctoDude\source\repos\pracioIVA\pracioIVA\obj\Debug\net6.0\pracioIVA.csproj.AssemblyReference.cache
+C:\Users\OctoDude\source\repos\pracioIVA\pracioIVA\obj\Debug\net6.0\pracioIVA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OctoDude\source\repos\pracioIVA\pracioIVA\obj\Debug\net6.0\pracioIVA.AssemblyInfoInputs.cache
+C:\Users\OctoDude\source\repos\pracioIVA\pracioIVA\obj\Debug\net6.0\pracioIVA.AssemblyInfo.cs
+C:\Users\OctoDude\source\repos\pracioIVA\pracioIVA\obj\Debug\net6.0\pracioIVA.csproj.CoreCompileInputs.cache
+C:\Users\OctoDude\source\repos\pracioIVA\pracioIVA\obj\Debug\net6.0\pracioIVA.dll
+C:\Users\OctoDude\source\repos\pracioIVA\pracioIVA\obj\Debug\net6.0\refint\pracioIVA.dll
+C:\Users\OctoDude\source\repos\pracioIVA\pracioIVA\obj\Debug\net6.0\pracioIVA.pdb
+C:\Users\OctoDude\source\repos\pracioIVA\pracioIVA\obj\Debug\net6.0\pracioIVA.genruntimeconfig.cache
+C:\Users\OctoDude\source\repos\pracioIVA\pracioIVA\obj\Debug\net6.0\ref\pracioIVA.dll

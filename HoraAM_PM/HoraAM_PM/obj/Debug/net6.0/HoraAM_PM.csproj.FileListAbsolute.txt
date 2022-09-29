@@ -1,0 +1,15 @@
+/Volumes/Elements/repos/HoraAM_PM/HoraAM_PM/obj/Debug/net6.0/HoraAM_PM.csproj.AssemblyReference.cache
+/Volumes/Elements/repos/HoraAM_PM/HoraAM_PM/obj/Debug/net6.0/HoraAM_PM.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Elements/repos/HoraAM_PM/HoraAM_PM/obj/Debug/net6.0/HoraAM_PM.AssemblyInfoInputs.cache
+/Volumes/Elements/repos/HoraAM_PM/HoraAM_PM/obj/Debug/net6.0/HoraAM_PM.AssemblyInfo.cs
+/Volumes/Elements/repos/HoraAM_PM/HoraAM_PM/obj/Debug/net6.0/HoraAM_PM.csproj.CoreCompileInputs.cache
+/Volumes/Elements/repos/HoraAM_PM/HoraAM_PM/obj/Debug/net6.0/HoraAM_PM.dll
+/Volumes/Elements/repos/HoraAM_PM/HoraAM_PM/obj/Debug/net6.0/refint/HoraAM_PM.dll
+/Volumes/Elements/repos/HoraAM_PM/HoraAM_PM/obj/Debug/net6.0/HoraAM_PM.pdb
+/Volumes/Elements/repos/HoraAM_PM/HoraAM_PM/bin/Debug/net6.0/HoraAM_PM
+/Volumes/Elements/repos/HoraAM_PM/HoraAM_PM/bin/Debug/net6.0/HoraAM_PM.deps.json
+/Volumes/Elements/repos/HoraAM_PM/HoraAM_PM/bin/Debug/net6.0/HoraAM_PM.runtimeconfig.json
+/Volumes/Elements/repos/HoraAM_PM/HoraAM_PM/bin/Debug/net6.0/HoraAM_PM.dll
+/Volumes/Elements/repos/HoraAM_PM/HoraAM_PM/bin/Debug/net6.0/HoraAM_PM.pdb
+/Volumes/Elements/repos/HoraAM_PM/HoraAM_PM/obj/Debug/net6.0/HoraAM_PM.genruntimeconfig.cache
+/Volumes/Elements/repos/HoraAM_PM/HoraAM_PM/obj/Debug/net6.0/ref/HoraAM_PM.dll

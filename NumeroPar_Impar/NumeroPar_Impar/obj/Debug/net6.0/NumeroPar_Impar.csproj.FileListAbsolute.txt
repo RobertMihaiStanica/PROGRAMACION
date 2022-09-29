@@ -1,0 +1,15 @@
+C:\Users\OctoDude\source\repos\NumeroPar_Impar\NumeroPar_Impar\bin\Debug\net6.0\NumeroPar_Impar.exe
+C:\Users\OctoDude\source\repos\NumeroPar_Impar\NumeroPar_Impar\bin\Debug\net6.0\NumeroPar_Impar.deps.json
+C:\Users\OctoDude\source\repos\NumeroPar_Impar\NumeroPar_Impar\bin\Debug\net6.0\NumeroPar_Impar.runtimeconfig.json
+C:\Users\OctoDude\source\repos\NumeroPar_Impar\NumeroPar_Impar\bin\Debug\net6.0\NumeroPar_Impar.dll
+C:\Users\OctoDude\source\repos\NumeroPar_Impar\NumeroPar_Impar\bin\Debug\net6.0\NumeroPar_Impar.pdb
+C:\Users\OctoDude\source\repos\NumeroPar_Impar\NumeroPar_Impar\obj\Debug\net6.0\NumeroPar_Impar.csproj.AssemblyReference.cache
+C:\Users\OctoDude\source\repos\NumeroPar_Impar\NumeroPar_Impar\obj\Debug\net6.0\NumeroPar_Impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OctoDude\source\repos\NumeroPar_Impar\NumeroPar_Impar\obj\Debug\net6.0\NumeroPar_Impar.AssemblyInfoInputs.cache
+C:\Users\OctoDude\source\repos\NumeroPar_Impar\NumeroPar_Impar\obj\Debug\net6.0\NumeroPar_Impar.AssemblyInfo.cs
+C:\Users\OctoDude\source\repos\NumeroPar_Impar\NumeroPar_Impar\obj\Debug\net6.0\NumeroPar_Impar.csproj.CoreCompileInputs.cache
+C:\Users\OctoDude\source\repos\NumeroPar_Impar\NumeroPar_Impar\obj\Debug\net6.0\NumeroPar_Impar.dll
+C:\Users\OctoDude\source\repos\NumeroPar_Impar\NumeroPar_Impar\obj\Debug\net6.0\refint\NumeroPar_Impar.dll
+C:\Users\OctoDude\source\repos\NumeroPar_Impar\NumeroPar_Impar\obj\Debug\net6.0\NumeroPar_Impar.pdb
+C:\Users\OctoDude\source\repos\NumeroPar_Impar\NumeroPar_Impar\obj\Debug\net6.0\NumeroPar_Impar.genruntimeconfig.cache
+C:\Users\OctoDude\source\repos\NumeroPar_Impar\NumeroPar_Impar\obj\Debug\net6.0\ref\NumeroPar_Impar.dll
