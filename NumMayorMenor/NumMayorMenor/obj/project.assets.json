@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OctoDude\\source\\repos\\NumMayorMenor\\NumMayorMenor\\NumMayorMenor.csproj",
+      "projectUniqueName": "C:\\Users\\OctoDude\\Documents\\GitHub\\PROGRAMACION\\NumMayorMenor\\NumMayorMenor\\NumMayorMenor.csproj",
       "projectName": "NumMayorMenor",
-      "projectPath": "C:\\Users\\OctoDude\\source\\repos\\NumMayorMenor\\NumMayorMenor\\NumMayorMenor.csproj",
+      "projectPath": "C:\\Users\\OctoDude\\Documents\\GitHub\\PROGRAMACION\\NumMayorMenor\\NumMayorMenor\\NumMayorMenor.csproj",
       "packagesPath": "C:\\Users\\OctoDude\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OctoDude\\source\\repos\\NumMayorMenor\\NumMayorMenor\\obj\\",
+      "outputPath": "C:\\Users\\OctoDude\\Documents\\GitHub\\PROGRAMACION\\NumMayorMenor\\NumMayorMenor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OctoDude\\AppData\\Roaming\\NuGet\\NuGet.Config",

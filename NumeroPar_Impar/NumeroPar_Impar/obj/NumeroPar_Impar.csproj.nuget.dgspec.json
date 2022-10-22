@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OctoDude\\source\\repos\\NumeroPar_Impar\\NumeroPar_Impar\\NumeroPar_Impar.csproj": {}
+    "C:\\Users\\OctoDude\\Documents\\GitHub\\PROGRAMACION\\NumeroPar_Impar\\NumeroPar_Impar\\NumeroPar_Impar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OctoDude\\source\\repos\\NumeroPar_Impar\\NumeroPar_Impar\\NumeroPar_Impar.csproj": {
+    "C:\\Users\\OctoDude\\Documents\\GitHub\\PROGRAMACION\\NumeroPar_Impar\\NumeroPar_Impar\\NumeroPar_Impar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OctoDude\\source\\repos\\NumeroPar_Impar\\NumeroPar_Impar\\NumeroPar_Impar.csproj",
+        "projectUniqueName": "C:\\Users\\OctoDude\\Documents\\GitHub\\PROGRAMACION\\NumeroPar_Impar\\NumeroPar_Impar\\NumeroPar_Impar.csproj",
         "projectName": "NumeroPar_Impar",
-        "projectPath": "C:\\Users\\OctoDude\\source\\repos\\NumeroPar_Impar\\NumeroPar_Impar\\NumeroPar_Impar.csproj",
+        "projectPath": "C:\\Users\\OctoDude\\Documents\\GitHub\\PROGRAMACION\\NumeroPar_Impar\\NumeroPar_Impar\\NumeroPar_Impar.csproj",
         "packagesPath": "C:\\Users\\OctoDude\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\OctoDude\\source\\repos\\NumeroPar_Impar\\NumeroPar_Impar\\obj\\",
+        "outputPath": "C:\\Users\\OctoDude\\Documents\\GitHub\\PROGRAMACION\\NumeroPar_Impar\\NumeroPar_Impar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OctoDude\\AppData\\Roaming\\NuGet\\NuGet.Config",

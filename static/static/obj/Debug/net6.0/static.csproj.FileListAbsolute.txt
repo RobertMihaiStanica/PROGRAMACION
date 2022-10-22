@@ -1,0 +1,15 @@
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\static\static\bin\Debug\net6.0\static.exe
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\static\static\bin\Debug\net6.0\static.deps.json
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\static\static\bin\Debug\net6.0\static.runtimeconfig.json
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\static\static\bin\Debug\net6.0\static.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\static\static\bin\Debug\net6.0\static.pdb
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\static\static\obj\Debug\net6.0\static.csproj.AssemblyReference.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\static\static\obj\Debug\net6.0\static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\static\static\obj\Debug\net6.0\static.AssemblyInfoInputs.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\static\static\obj\Debug\net6.0\static.AssemblyInfo.cs
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\static\static\obj\Debug\net6.0\static.csproj.CoreCompileInputs.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\static\static\obj\Debug\net6.0\static.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\static\static\obj\Debug\net6.0\refint\static.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\static\static\obj\Debug\net6.0\static.pdb
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\static\static\obj\Debug\net6.0\static.genruntimeconfig.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\static\static\obj\Debug\net6.0\ref\static.dll

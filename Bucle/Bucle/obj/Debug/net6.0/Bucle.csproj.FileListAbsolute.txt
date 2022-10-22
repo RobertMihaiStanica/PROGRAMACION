@@ -1,0 +1,15 @@
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\Bucle\Bucle\bin\Debug\net6.0\Bucle.exe
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\Bucle\Bucle\bin\Debug\net6.0\Bucle.deps.json
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\Bucle\Bucle\bin\Debug\net6.0\Bucle.runtimeconfig.json
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\Bucle\Bucle\bin\Debug\net6.0\Bucle.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\Bucle\Bucle\bin\Debug\net6.0\Bucle.pdb
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\Bucle\Bucle\obj\Debug\net6.0\Bucle.csproj.AssemblyReference.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\Bucle\Bucle\obj\Debug\net6.0\Bucle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\Bucle\Bucle\obj\Debug\net6.0\Bucle.AssemblyInfoInputs.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\Bucle\Bucle\obj\Debug\net6.0\Bucle.AssemblyInfo.cs
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\Bucle\Bucle\obj\Debug\net6.0\Bucle.csproj.CoreCompileInputs.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\Bucle\Bucle\obj\Debug\net6.0\Bucle.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\Bucle\Bucle\obj\Debug\net6.0\refint\Bucle.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\Bucle\Bucle\obj\Debug\net6.0\Bucle.pdb
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\Bucle\Bucle\obj\Debug\net6.0\Bucle.genruntimeconfig.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\Bucle\Bucle\obj\Debug\net6.0\ref\Bucle.dll
