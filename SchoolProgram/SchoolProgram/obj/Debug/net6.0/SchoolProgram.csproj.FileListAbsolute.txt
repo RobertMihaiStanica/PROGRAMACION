@@ -1,0 +1,15 @@
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\SchoolProgram\SchoolProgram\bin\Debug\net6.0\SchoolProgram.exe
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\SchoolProgram\SchoolProgram\bin\Debug\net6.0\SchoolProgram.deps.json
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\SchoolProgram\SchoolProgram\bin\Debug\net6.0\SchoolProgram.runtimeconfig.json
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\SchoolProgram\SchoolProgram\bin\Debug\net6.0\SchoolProgram.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\SchoolProgram\SchoolProgram\bin\Debug\net6.0\SchoolProgram.pdb
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\SchoolProgram\SchoolProgram\obj\Debug\net6.0\SchoolProgram.csproj.AssemblyReference.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\SchoolProgram\SchoolProgram\obj\Debug\net6.0\SchoolProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\SchoolProgram\SchoolProgram\obj\Debug\net6.0\SchoolProgram.AssemblyInfoInputs.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\SchoolProgram\SchoolProgram\obj\Debug\net6.0\SchoolProgram.AssemblyInfo.cs
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\SchoolProgram\SchoolProgram\obj\Debug\net6.0\SchoolProgram.csproj.CoreCompileInputs.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\SchoolProgram\SchoolProgram\obj\Debug\net6.0\SchoolProgram.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\SchoolProgram\SchoolProgram\obj\Debug\net6.0\refint\SchoolProgram.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\SchoolProgram\SchoolProgram\obj\Debug\net6.0\SchoolProgram.pdb
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\SchoolProgram\SchoolProgram\obj\Debug\net6.0\SchoolProgram.genruntimeconfig.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\SchoolProgram\SchoolProgram\obj\Debug\net6.0\ref\SchoolProgram.dll

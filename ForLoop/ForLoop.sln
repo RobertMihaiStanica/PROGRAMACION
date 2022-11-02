@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoop", "ForLoop\ForLoop.csproj", "{505BBCE1-8FA1-466A-AC72-43AEF019F68B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{505BBCE1-8FA1-466A-AC72-43AEF019F68B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505BBCE1-8FA1-466A-AC72-43AEF019F68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505BBCE1-8FA1-466A-AC72-43AEF019F68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505BBCE1-8FA1-466A-AC72-43AEF019F68B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB0CE23A-5393-4BEB-9630-6B7C38500843}
+	EndGlobalSection
+EndGlobal

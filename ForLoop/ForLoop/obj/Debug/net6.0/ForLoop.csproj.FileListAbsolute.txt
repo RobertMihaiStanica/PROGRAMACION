@@ -1,0 +1,15 @@
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ForLoop\ForLoop\obj\Debug\net6.0\ForLoop.csproj.AssemblyReference.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ForLoop\ForLoop\obj\Debug\net6.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ForLoop\ForLoop\obj\Debug\net6.0\ForLoop.AssemblyInfoInputs.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ForLoop\ForLoop\obj\Debug\net6.0\ForLoop.AssemblyInfo.cs
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ForLoop\ForLoop\obj\Debug\net6.0\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ForLoop\ForLoop\bin\Debug\net6.0\ForLoop.exe
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ForLoop\ForLoop\bin\Debug\net6.0\ForLoop.deps.json
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ForLoop\ForLoop\bin\Debug\net6.0\ForLoop.runtimeconfig.json
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ForLoop\ForLoop\bin\Debug\net6.0\ForLoop.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ForLoop\ForLoop\bin\Debug\net6.0\ForLoop.pdb
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ForLoop\ForLoop\obj\Debug\net6.0\ForLoop.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ForLoop\ForLoop\obj\Debug\net6.0\refint\ForLoop.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ForLoop\ForLoop\obj\Debug\net6.0\ForLoop.pdb
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ForLoop\ForLoop\obj\Debug\net6.0\ForLoop.genruntimeconfig.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ForLoop\ForLoop\obj\Debug\net6.0\ref\ForLoop.dll
