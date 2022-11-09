@@ -1,0 +1,15 @@
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\classes_07_11\classes_07_11\bin\Debug\net6.0\classes_07_11.exe
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\classes_07_11\classes_07_11\bin\Debug\net6.0\classes_07_11.deps.json
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\classes_07_11\classes_07_11\bin\Debug\net6.0\classes_07_11.runtimeconfig.json
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\classes_07_11\classes_07_11\bin\Debug\net6.0\classes_07_11.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\classes_07_11\classes_07_11\bin\Debug\net6.0\classes_07_11.pdb
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\classes_07_11\classes_07_11\obj\Debug\net6.0\classes_07_11.csproj.AssemblyReference.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\classes_07_11\classes_07_11\obj\Debug\net6.0\classes_07_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\classes_07_11\classes_07_11\obj\Debug\net6.0\classes_07_11.AssemblyInfoInputs.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\classes_07_11\classes_07_11\obj\Debug\net6.0\classes_07_11.AssemblyInfo.cs
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\classes_07_11\classes_07_11\obj\Debug\net6.0\classes_07_11.csproj.CoreCompileInputs.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\classes_07_11\classes_07_11\obj\Debug\net6.0\classes_07_11.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\classes_07_11\classes_07_11\obj\Debug\net6.0\refint\classes_07_11.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\classes_07_11\classes_07_11\obj\Debug\net6.0\classes_07_11.pdb
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\classes_07_11\classes_07_11\obj\Debug\net6.0\classes_07_11.genruntimeconfig.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\classes_07_11\classes_07_11\obj\Debug\net6.0\ref\classes_07_11.dll
