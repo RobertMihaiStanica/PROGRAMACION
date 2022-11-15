@@ -41,7 +41,6 @@ namespace classes_07_11
             password = "";
             int letterNum; //The number that we´ll converto to an ascii character
             char letterChar; //The already generated ascii character
-            string letter; //The character converted to string
             Random random = new Random();
             for (int counter = 0; counter < length; counter = counter + 1)
             {
