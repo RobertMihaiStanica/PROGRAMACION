@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Diagnostics.Metrics;
+using System.Drawing;
+using System.Runtime.Intrinsics.X86;
 
 namespace MyApp // Note: actual namespace depends on the project name.
 {
@@ -92,6 +94,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
         static void Exercise6()
         {
+
             int[] temperatures = GenerateArray();
 
             string graph = "";
@@ -100,9 +103,17 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             string firstline = "TEMP";
 
-            for (int counter = MinArrayNumber(temperatures); counter <= MaxArrayNumber(temperatures); ++counter) //creates a line for each possible temperature
+            for (int counter4 = 0; counter4 < temperatures.Length; ++counter4) //upper line print
+            {
+                firstline = firstline + "____";
+            }
+            Console.WriteLine(firstline);
+
+            for (int counter = MaxArrayNumber(temperatures); counter >= MinArrayNumber(temperatures); --counter) //creates a line for each possible temperature
             {
                 string line = "";
+
+                ConsoleColor color = ConsoleColor.Red;
 
                 if (counter >= 0 && counter <= 9) //here we decide if the number is made of a single digit or 2 (negative numbers count as double digits)
                 {
@@ -124,29 +135,65 @@ namespace MyApp // Note: actual namespace depends on the project name.
                         line = line + "____"; //this will draw a blank space
                     }
                 }
-                graph = line + "\n" + graph; //here we add the line to the graph, we put the string at the end to avoid reversing the graph
-            }
 
-            for (int counter3 = 0; counter3 < temperatures.Length; ++counter3) //this is the same concept applied to the line under the graph, printing a number for each possition in the array
-            {
-                if (counter3 >= 0 && counter3 < 9)
+                line = line + "\n";
+
+                if (counter <= 0)
                 {
-                    lastline = lastline + "   " + (counter3 + 1); 
+                    color = ConsoleColor.DarkBlue;
+                }
+                else if (counter > 0 && counter <= 10)
+                {
+                    color = ConsoleColor.Blue;
+                }
+                else if (counter <= 25)
+                {
+                    color = ConsoleColor.Yellow;
+                }
+                else if (counter > 25 && counter <= 35)
+                {
+                    color = ConsoleColor.DarkYellow;
+                }
+                else if (counter > 35)
+                {
+                    color = ConsoleColor.DarkRed;
                 }
                 else
                 {
-                    lastline = lastline + "  " + (counter3 + 1);
+                    color = ConsoleColor.White;
                 }
+
+                foreach (char block in line)
+                {
+                    if (block == 'I')
+                    {
+                        Console.BackgroundColor = color;
+                        Console.ForegroundColor = color;
+                        Console.Write(block);
+                    }
+                    else
+                    {
+                        Console.BackgroundColor = ConsoleColor.Black;
+                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.Write(block);
+                    }
+                }
+
             }
+                for (int counter3 = 0; counter3 < temperatures.Length; ++counter3) //Last line print, based on how many array items there are
+                {
+                    if (counter3 >= 0 && counter3 < 9)
+                    {
+                        lastline = lastline + "   " + (counter3 + 1);
+                    }
+                    else
+                    {
+                        lastline = lastline + "  " + (counter3 + 1);
+                    }
+                }
 
-            for (int counter4 = 0; counter4 < temperatures.Length; ++counter4) //same concept with the upper line 
-            {
-                firstline = firstline + "____";
-            }
+                Console.WriteLine(lastline);
 
-            graph = firstline + "\n" + graph + "\n" + lastline;
-
-            Console.WriteLine(graph);
         }
 
         static int[] GenerateArray()
@@ -154,9 +201,9 @@ namespace MyApp // Note: actual namespace depends on the project name.
             Console.WriteLine("Array length:");
             int length = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Min array number:");
-            int min = Convert.ToInt32(Console.ReadLine()) + 1;
+            int min = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Max array number:");
-            int max = Convert.ToInt32(Console.ReadLine());
+            int max = Convert.ToInt32(Console.ReadLine()) + 1;
 
             Random random = new Random();
 
