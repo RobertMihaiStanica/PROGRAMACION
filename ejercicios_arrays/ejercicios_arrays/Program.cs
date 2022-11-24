@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Diagnostics.Metrics;
 using System.Drawing;
+using System.Reflection;
 using System.Runtime.Intrinsics.X86;
 
 namespace MyApp // Note: actual namespace depends on the project name.
@@ -97,8 +98,6 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             int[] temperatures = GenerateArray();
 
-            string graph = "";
-
             string lastline = "MO";
 
             string firstline = "TEMP";
@@ -109,91 +108,94 @@ namespace MyApp // Note: actual namespace depends on the project name.
             }
             Console.WriteLine(firstline);
 
-            for (int counter = MaxArrayNumber(temperatures); counter >= MinArrayNumber(temperatures); --counter) //creates a line for each possible temperature
+            for (int lineCounter = MaxArrayNumber(temperatures); lineCounter >= MinArrayNumber(temperatures); --lineCounter) //creates a line for each possible temperature
             {
-                string line = "";
+                
 
-                ConsoleColor color = ConsoleColor.Red;
-
-                if (counter >= 0 && counter <= 9) //here we decide if the number is made of a single digit or 2 (negative numbers count as double digits)
+                if (lineCounter >= 0 && lineCounter <= 9) //here we decide if the number is made of a single digit or 2 (negative numbers count as double digits)
                 {
-                    line = counter + "___";
+                    Console.BackgroundColor = ConsoleColor.Black;
+                    Console.ForegroundColor = ConsoleColor.White;
+                    Console.Write(lineCounter + "___");
                 }
                 else
                 {
-                    line = counter + "__";
+                    Console.BackgroundColor = ConsoleColor.Black;
+                    Console.ForegroundColor = ConsoleColor.White;
+                    Console.Write(lineCounter + "__");
                 }
 
-                for (int counter2 = 0; counter2 < temperatures.Length; ++counter2) //decides if you have to put a level on the graph or not
+                for (int counterMonths = 0; counterMonths < temperatures.Length; ++counterMonths) //decides if you have to put a level on the graph or not
                 {
-                    if (temperatures[counter2] >= counter) //If the temperatura is higher than the line we are in
+                    if (temperatures[counterMonths] >= lineCounter) //If the temperatura is higher than the line we are in
                     {
-                        line = line + "II" + "__"; //This will draw a sybol + the space to the next one
-                    }
-                    else
-                    {
-                        line = line + "____"; //this will draw a blank space
-                    }
-                }
-
-                line = line + "\n";
-
-                if (counter <= 0)
-                {
-                    color = ConsoleColor.DarkBlue;
-                }
-                else if (counter > 0 && counter <= 10)
-                {
-                    color = ConsoleColor.Blue;
-                }
-                else if (counter <= 25)
-                {
-                    color = ConsoleColor.Yellow;
-                }
-                else if (counter > 25 && counter <= 35)
-                {
-                    color = ConsoleColor.DarkYellow;
-                }
-                else if (counter > 35)
-                {
-                    color = ConsoleColor.DarkRed;
-                }
-                else
-                {
-                    color = ConsoleColor.White;
-                }
-
-                foreach (char block in line)
-                {
-                    if (block == 'I')
-                    {
-                        Console.BackgroundColor = color;
-                        Console.ForegroundColor = color;
-                        Console.Write(block);
-                    }
-                    else
-                    {
+                        ConsoleColor color = TemperatureColor(temperatures[counterMonths]);
+                        WriteColor("II", color, color);
                         Console.BackgroundColor = ConsoleColor.Black;
                         Console.ForegroundColor = ConsoleColor.White;
-                        Console.Write(block);
-                    }
-                }
-
-            }
-                for (int counter3 = 0; counter3 < temperatures.Length; ++counter3) //Last line print, based on how many array items there are
-                {
-                    if (counter3 >= 0 && counter3 < 9)
-                    {
-                        lastline = lastline + "   " + (counter3 + 1);
+                        Console.Write("__"); //This will draw a sybol + the space to the next one
                     }
                     else
                     {
-                        lastline = lastline + "  " + (counter3 + 1);
+                        WriteColor("____", ConsoleColor.White, ConsoleColor.Black); //this will draw a blank space
                     }
                 }
 
-                Console.WriteLine(lastline);
+                Console.WriteLine();
 
+                
+
+            } // End for  central lines
+            
+            for (int counter3 = 0; counter3 < temperatures.Length; ++counter3) //Last line print, based on how many array items there are
+            {
+                if (counter3 >= 0 && counter3 < 9)
+                {
+                    lastline = lastline + "   " + (counter3 + 1);
+                }
+                else
+                {
+                    lastline = lastline + "  " + (counter3 + 1);
+                }
+            }
+
+            Console.WriteLine(lastline);
+
+        }
+
+        static void WriteColor(string s, ConsoleColor colorFore, ConsoleColor colorBack)
+        {
+            Console.BackgroundColor = colorBack;
+            Console.ForegroundColor = colorFore;
+            Console.Write(s); 
+        }
+
+        static ConsoleColor TemperatureColor(int counter)
+        {
+            if (counter <= 0)
+            {
+                return ConsoleColor.DarkBlue;
+            }
+            else if (counter > 0 && counter <= 10)
+            {
+                return ConsoleColor.Blue;
+            }
+            else if (counter <= 25)
+            {
+                return ConsoleColor.Yellow;
+            }
+            else if (counter > 25 && counter <= 35)
+            {
+                return ConsoleColor.DarkYellow;
+            }
+            else if (counter > 35)
+            {
+                return ConsoleColor.DarkRed;
+            }
+            else
+            {
+                return ConsoleColor.White;
+            }
         }
 
         static int[] GenerateArray()

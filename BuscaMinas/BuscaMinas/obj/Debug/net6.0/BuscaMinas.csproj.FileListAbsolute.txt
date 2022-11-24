@@ -1,0 +1,15 @@
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\BuscaMinas\BuscaMinas\bin\Debug\net6.0\BuscaMinas.exe
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\BuscaMinas\BuscaMinas\bin\Debug\net6.0\BuscaMinas.deps.json
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\BuscaMinas\BuscaMinas\bin\Debug\net6.0\BuscaMinas.runtimeconfig.json
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\BuscaMinas\BuscaMinas\bin\Debug\net6.0\BuscaMinas.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\BuscaMinas\BuscaMinas\bin\Debug\net6.0\BuscaMinas.pdb
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\BuscaMinas\BuscaMinas\obj\Debug\net6.0\BuscaMinas.csproj.AssemblyReference.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\BuscaMinas\BuscaMinas\obj\Debug\net6.0\BuscaMinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\BuscaMinas\BuscaMinas\obj\Debug\net6.0\BuscaMinas.AssemblyInfoInputs.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\BuscaMinas\BuscaMinas\obj\Debug\net6.0\BuscaMinas.AssemblyInfo.cs
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\BuscaMinas\BuscaMinas\obj\Debug\net6.0\BuscaMinas.csproj.CoreCompileInputs.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\BuscaMinas\BuscaMinas\obj\Debug\net6.0\BuscaMinas.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\BuscaMinas\BuscaMinas\obj\Debug\net6.0\refint\BuscaMinas.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\BuscaMinas\BuscaMinas\obj\Debug\net6.0\BuscaMinas.pdb
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\BuscaMinas\BuscaMinas\obj\Debug\net6.0\BuscaMinas.genruntimeconfig.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\BuscaMinas\BuscaMinas\obj\Debug\net6.0\ref\BuscaMinas.dll

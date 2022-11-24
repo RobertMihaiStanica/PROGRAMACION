@@ -1,0 +1,15 @@
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ConsolePokemon\ConsolePokemon\bin\Debug\net6.0\ConsolePokemon.exe
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ConsolePokemon\ConsolePokemon\bin\Debug\net6.0\ConsolePokemon.deps.json
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ConsolePokemon\ConsolePokemon\bin\Debug\net6.0\ConsolePokemon.runtimeconfig.json
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ConsolePokemon\ConsolePokemon\bin\Debug\net6.0\ConsolePokemon.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ConsolePokemon\ConsolePokemon\bin\Debug\net6.0\ConsolePokemon.pdb
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ConsolePokemon\ConsolePokemon\obj\Debug\net6.0\ConsolePokemon.csproj.AssemblyReference.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ConsolePokemon\ConsolePokemon\obj\Debug\net6.0\ConsolePokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ConsolePokemon\ConsolePokemon\obj\Debug\net6.0\ConsolePokemon.AssemblyInfoInputs.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ConsolePokemon\ConsolePokemon\obj\Debug\net6.0\ConsolePokemon.AssemblyInfo.cs
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ConsolePokemon\ConsolePokemon\obj\Debug\net6.0\ConsolePokemon.csproj.CoreCompileInputs.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ConsolePokemon\ConsolePokemon\obj\Debug\net6.0\ConsolePokemon.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ConsolePokemon\ConsolePokemon\obj\Debug\net6.0\refint\ConsolePokemon.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ConsolePokemon\ConsolePokemon\obj\Debug\net6.0\ConsolePokemon.pdb
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ConsolePokemon\ConsolePokemon\obj\Debug\net6.0\ConsolePokemon.genruntimeconfig.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ConsolePokemon\ConsolePokemon\obj\Debug\net6.0\ref\ConsolePokemon.dll

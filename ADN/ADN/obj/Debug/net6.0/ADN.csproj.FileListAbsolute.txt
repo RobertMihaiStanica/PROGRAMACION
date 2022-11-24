@@ -1,0 +1,15 @@
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ADN\ADN\bin\Debug\net6.0\ADN.exe
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ADN\ADN\bin\Debug\net6.0\ADN.deps.json
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ADN\ADN\bin\Debug\net6.0\ADN.runtimeconfig.json
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ADN\ADN\bin\Debug\net6.0\ADN.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ADN\ADN\bin\Debug\net6.0\ADN.pdb
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ADN\ADN\obj\Debug\net6.0\ADN.csproj.AssemblyReference.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ADN\ADN\obj\Debug\net6.0\ADN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ADN\ADN\obj\Debug\net6.0\ADN.AssemblyInfoInputs.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ADN\ADN\obj\Debug\net6.0\ADN.AssemblyInfo.cs
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ADN\ADN\obj\Debug\net6.0\ADN.csproj.CoreCompileInputs.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ADN\ADN\obj\Debug\net6.0\ADN.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ADN\ADN\obj\Debug\net6.0\refint\ADN.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ADN\ADN\obj\Debug\net6.0\ADN.pdb
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ADN\ADN\obj\Debug\net6.0\ADN.genruntimeconfig.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\ADN\ADN\obj\Debug\net6.0\ref\ADN.dll
