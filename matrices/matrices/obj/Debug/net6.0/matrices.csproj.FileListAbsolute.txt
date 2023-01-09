@@ -1,0 +1,15 @@
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\matrices\matrices\bin\Debug\net6.0\matrices.exe
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\matrices\matrices\bin\Debug\net6.0\matrices.deps.json
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\matrices\matrices\bin\Debug\net6.0\matrices.runtimeconfig.json
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\matrices\matrices\bin\Debug\net6.0\matrices.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\matrices\matrices\bin\Debug\net6.0\matrices.pdb
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\matrices\matrices\obj\Debug\net6.0\matrices.csproj.AssemblyReference.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\matrices\matrices\obj\Debug\net6.0\matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\matrices\matrices\obj\Debug\net6.0\matrices.AssemblyInfoInputs.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\matrices\matrices\obj\Debug\net6.0\matrices.AssemblyInfo.cs
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\matrices\matrices\obj\Debug\net6.0\matrices.csproj.CoreCompileInputs.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\matrices\matrices\obj\Debug\net6.0\matrices.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\matrices\matrices\obj\Debug\net6.0\refint\matrices.dll
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\matrices\matrices\obj\Debug\net6.0\matrices.pdb
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\matrices\matrices\obj\Debug\net6.0\matrices.genruntimeconfig.cache
+C:\Users\OctoDude\Documents\GitHub\PROGRAMACION\matrices\matrices\obj\Debug\net6.0\ref\matrices.dll
